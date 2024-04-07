@@ -1,7 +1,8 @@
-## 概要
+## Markdown To HTML Converter
+### 概要
 MarkdownファイルをHTMLに変換するプログラム。
 
-## 使い方
+### 使い方
 コマンドライン上で
-``
-と入力することで.md形式のinputfileをhtml形式のoutputfileに変換することができます。
+`node MdtoHTML.js "markdown" "sample.md" "index.html"`
+と入力することで.md形式のsample.mdをhtml形式のindex.htmlに変換することができます。
