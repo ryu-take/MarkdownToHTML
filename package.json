@@ -1,0 +1,15 @@
+{
+  "name": "marked",
+  "version": "1.0.0",
+  "description": "MarkdownファイルをHTMLに変換するプログラム。",
+  "main": "MdtoHTML.js",
+  "repository": "https://github.com/ryu-take/MdToHTML",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^12.0.1"
+  }
+}
