@@ -5,4 +5,4 @@ MarkdownファイルをHTMLに変換するプログラム。
 ### 使い方
 コマンドライン上で
 `node MdtoHTML.js "markdown" "sample.md" "index.html"`
-と入力することで.md形式のsample.mdをhtml形式のindex.htmlに変換することができます。
+と入力することでマークダウン形式のsample.mdをhtml形式のindex.htmlに変換することができます。
